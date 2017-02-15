@@ -15,5 +15,9 @@
     "mongoose": "^4.8.1",
     "ts-loader": "^2.0.0",
     "typescript": "^2.1.5"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-react": "^6.9.0"
   }
 }
